@@ -5,4 +5,4 @@ def prime(n):
     return(sum)
 #
 #
-print(prime(290))
+print(prime(100))
