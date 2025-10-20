@@ -4,4 +4,4 @@ def prime(n):
         sum += i
     return(sum)
 
-print(prime(100))
+print(prime(180))
