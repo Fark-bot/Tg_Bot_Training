@@ -5,5 +5,6 @@ def prime(n):
     return(sum)
 #
 #
+# Тестируем Git Pull
 # Переключение ветвей
 print(prime(150))
